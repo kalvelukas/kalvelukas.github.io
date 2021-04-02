@@ -1,0 +1,8 @@
+html,
+body,
+a {
+    margin: 5;
+    background: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
